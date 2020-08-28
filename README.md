@@ -1,2 +1,2 @@
 # bc32bit
-bettercap for 32 bit processors
+bettercap compile for 32 bit processors
